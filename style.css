@@ -125,7 +125,7 @@ header button{
 #transform-world {
     height: 560px;
     background-size: cover;
-    background-image: url(../trilha-css-desafio-01-main/assets/images/woman-code.png);
+    background-image: url('../Bootcamp-Dio-FrontEnd/assets/images/woman-code.png');
     background-attachment: fixed;
     width: 1700px;
     border-top: 1px solid #33A8DB80;
